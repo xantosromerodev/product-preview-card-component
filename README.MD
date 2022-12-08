@@ -4,20 +4,20 @@ Esta es una solución al desafío [Product preview card component](https://www.f
 
 ## Tabla de contenidos
 
-- Visión general
-  - El desafío
-  - Capturas de pantalla
-  - Enlaces
-- Proceso de trabajo
-  - Planeación
-  - Análisis
-  - Desarrollo
-  - Pruebas
-  - Lo que aprendí
-  - Lo que aprenderé
-  - Recursos útiles
-- Autor
-- Agradecimientos
+- [Visión general](#visión-general)
+  - [El desafío](#el-desafío)
+  - [Captura de pantalla](#captura-de-pantalla)
+  - [Enlaces](#enlaces)
+- [Proceso de trabajo](#proceso-de-trabajo)
+  - [Planeación](#planeación)
+  - [Análisis](#análisis)
+  - [Desarrollo](#desarrollo)
+  - [Pruebas](#pruebas)
+  - [Lo que aprendí](#lo-que-aprendí)
+  - [Lo que aprenderé](#lo-que-aprenderé)
+  - [Recursos útiles](#recursos-útiles)
+- [Autor](#autor)
+- [Agradecimientos](#agradecimientos)
 
 ## Visión general
 
@@ -28,7 +28,7 @@ Los usuarios deben ser capaces de:
 - Ver el diseño óptimo según el tamaño de pantalla del dispositivo
 - Ver estados hover y desplazamiento de los elementos interactivos
 
-### Capturas de pantalla
+### Captura de pantalla
 
 Visualización de la página web en computadoras y teléfonos:
 
@@ -179,7 +179,7 @@ Profundizar y aprender más:
 
 ### Recursos útiles
 
-Estos recursos me ayudaron a realizar un mejor trabajo para finalizar el proyecto:
+Estos recursos me ayudaron a realizar un mejor trabajo con el proyecto:
 
 - [Picture element](https://www.w3schools.com/html/html_images_picture.asp) - este sitio me ayudó a comprender cómo usar el elemento HTML `<picture>`. Lo recomiendo ampliamente.
 - [BEM](https://en.bem.info/methodology/quick-start/) - este sitio me ayudó a comprender el propósito de la metodología BEM.
