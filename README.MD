@@ -30,15 +30,15 @@ Los usuarios deben ser capaces de:
 
 ### Captura de pantalla
 
-Visualización de la página web en computadoras y teléfonos:
+Visualización de la página en un computador y teléfono:
 
 ![](./images/screenshots/screenshot--desktop.png)
 ![](./images/screenshots/screenshot--mobile.png)
 
 ### Enlaces
 
-- Código fuente: [Product preview card component](https://your-solution-url.com)
-- Sitio web: [Product preview card component](https://your-solution-url.com)
+- Código fuente: [Product preview card component](https://github.com/xantosromerodev/Product-Preview-Card-Component.git)
+- Sitio web: [Product preview card component](https://dev-product-preview-card-component.vercel.app/)
 
 ## Proceso de trabajo
 
@@ -46,19 +46,19 @@ Visualización de la página web en computadoras y teléfonos:
 
 En esta fase analizamos los requerimientos del proyecto para ser coherentes con el proceso de trabajo.
 
-Recursos para el proyecto:
+Recursos:
 - Editor de código (Visual Studio Code)
-- Navegadores (Google, Firefox y Opera)
+- Navegadores (Google y Firefox)
 - Sistema de control de versiones (Git & GitHub)
 - Hosting gratuito (Vercel)
 
-Tiempo estimado del proyecto:
+Tiempo estimado:
 - 1 día (desarrollo)
 - 1 día (documentación)
 
 ### Análisis
 
-Analizamos los objetivos del proyecto, para ofrecer contenido relevante para usuarios que aman los perfumes y el cuidado personal. También, analizamos los diseños del proyecto para tener una visión clara de cómo abordarlo.
+Analizamos los objetivos del proyecto, para ofrecer contenido relevante para usuarios que aman los perfumes y el cuidado personal. También, analizamos los diseños del proyecto para tener una visión clara para abordarlo.
 
 ### Desarrollo
 
@@ -68,7 +68,7 @@ Analizamos los objetivos del proyecto, para ofrecer contenido relevante para usu
 - **De arriba hacia abajo**: empezamos marcando el documento HTML de arriba hacia abajo, hacemos lo mismo con los estilos CSS. Usar este método nos permite enfocarnos y usar buenas prácticas para tener un buen código.
 
 El proyecto demandó:
-- Marcado semántico HTML con la metodología BEM (Block, Element, Modifiers)
+- Marcado semántico HTML con metodología BEM (Block, Element, Modifiers)
 - Propiedades y variables CSS
 - Flexbox
 - Flujo de trabajo mobile-first
